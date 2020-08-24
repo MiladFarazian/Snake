@@ -1,1 +1,1 @@
-# Snake ![]("snake.png")
+# Snake ![](snake.png)
